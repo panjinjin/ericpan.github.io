@@ -19,8 +19,8 @@ title: Eric Pan # the main title
 
 tagline: Eric's ML Journey # it will display as the sub-title
 
-description: >- # used by seo meta and the atom feed
-  Eric's ML Journey -> oh yeah
+description: Eric's ML Journey -> oh yeah # used by seo meta and the atom feed
+  
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -30,8 +30,8 @@ title: Eric # the main title
 
 tagline: Eric ML journey # it will display as the sub-title
 
-description: >- # used by seo meta and the atom feed
-  Eric ML journey -> oh yeah
+description: Eric ML journey -> oh yeah # used by seo meta and the atom feed
+  
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
