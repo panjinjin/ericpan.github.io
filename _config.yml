@@ -14,6 +14,7 @@ timezone: America/Chicago
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
+<<<<<<< HEAD
 title: Eric Pan # the main title
 
 tagline: Eric's ML Journey # it will display as the sub-title
@@ -24,6 +25,18 @@ description: >- # used by seo meta and the atom feed
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: "https://ericpan.github.io"
+=======
+title: Eric # the main title
+
+tagline: Eric ML journey # it will display as the sub-title
+
+description: >- # used by seo meta and the atom feed
+  Eric ML journey -> oh yeah
+
+# Fill in the protocol & hostname for your site.
+# e.g. 'https://username.github.io', note that it does not end with a '/'.
+url: "ericpan.github.io"
+>>>>>>> 499d0bfc6415a99f9e1d46dd80bf0a1cd85cb663
 
 github:
   username: panjinjin # change to your github username
